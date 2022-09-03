@@ -1,1 +1,1 @@
-script that creates a directory called my_dir with permissions 751 in the working directory
+a script that changes the owner and the group owner of _hello to vincent and staff respectivel
